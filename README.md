@@ -158,6 +158,14 @@ It is deliberately small, dependency-free, and suitable for use in existing proj
 
 [SafeValueStruct API Documentation](docs/SafeValueStruct.md)
 
+[DeepNavigator API Documentation](docs/DeepNavigator.md)
+
+[DeepPath API Documentation](docs/DeepPath.md)
+
+[EnumSafe API Documentation](docs/EnumSafe.md)
+
+[StringSafe API Documentation](docs/StringSafe.md)
+
 ---
 
 ## Contributing
