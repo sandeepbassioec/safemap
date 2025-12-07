@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	  <Authors>Sandeep Bassi</Authors>
+	  <Company>Sandeep Bassi</Company>
+	  <PackageId>SafeMap</PackageId>
+	  <Version>1.0.0</Version>
+	  <Description>Safe - Map Pattern(SMP) - Guarded, null - safe, fallback - enabled mapping utilities for C#.</Description>
+	  <PackageTags>safe map optional maybe guard mapping sandeep</PackageTags>
+	  <RepositoryUrl>https://github.com/your-org/SafeMap</RepositoryUrl>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+	  <Title>The Smartest Way to Map Values Safely.</Title>
+  </PropertyGroup>
+</Project>

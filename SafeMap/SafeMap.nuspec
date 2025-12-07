@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package>
+  <metadata>
+    <id>SafeMap</id>
+    <version>1.0.0</version>
+    <authors>Sandeep Bassi</authors>
+    <owners>Sandeep Bassi</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Safe - Map Pattern(SMP) utilities for guarded, null-safe mapping.</description>
+    <language>en-US</language>
+    <tags>safe map guarded mapping</tags>
+  </metadata>
+</package>
