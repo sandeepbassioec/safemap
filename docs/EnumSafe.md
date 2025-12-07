@@ -2,7 +2,7 @@
 ---
 
 # 📄 **6. `EnumSafe.md`**
-```md
+
 # EnumSafe API Documentation
 
 `EnumSafe<TEnum>` lets you safely map integers/strings to enums WITHOUT exceptions.
